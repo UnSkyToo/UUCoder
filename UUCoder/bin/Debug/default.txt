@@ -1,0 +1,160 @@
+[Environment]
+	<Name="ExitAutoSave" Tag="退出时自动保存" Value="false">
+	<Name="Font" Tag="字体" Value="新宋体,10">
+[/Environment]
+
+[Editor]
+	<Name="Tab" Tag="水平制表符ASCII" Value="9">
+	<Name="NewLine" Tag="换行符ASCII" Value="10">
+	<Name="Enter" Tag="回车符ASCII" Value="13">
+	<Name="Space" Tag="空格ASCII" Value="32">
+	<Name="DoubleQuote" Tag="双引号ASCII" Value="34">
+	<Name="Quote" Tag="单引号ASCII" Value="39">
+	<Name="BackSlash" Tag="反斜杠ASCII" Value="47">
+	<Name="Slash" Tag="斜杠ASCII" Value="92">
+	<Name="LBracket" Tag="左大括号ASCII" Value="123">
+	<Name="RBracket" Tag="右大括号ASCII" Value="125">
+	<Name="TabNumberOfSpace" Tag="Tab相当于Space的数量" Value="4">
+[/Editor]
+
+[Language]
+	[C#]
+		<Name="ClassString" Tag="定义类的字符串" Value="class">
+		<Name="Normal" Tag="文本" Value="255,255,255">
+		<Name="String" Tag="字符串" Value="255,0,0">
+		<Name="Digit" Tag="数字" Value="0,255,255">
+		<Name="ClassName" Tag="类名" Value="0,255,255">
+		<Name="FunctionName" Tag="函数名" Value="0,255,255">
+		<Name="VariableName" Tag="变量名" Value="0,255,255">
+		<Name="Annotation" Tag="注释" Value="128,128,128">
+
+		[KeyWords]
+			<Name="abstract" Tag="" Value="0,255,0">
+			<Name="as" Tag="" Value="0,255,0">
+			<Name="base" Tag="" Value="0,255,0">
+			<Name="bool" Tag="" Value="0,255,0">
+			<Name="break" Tag="" Value="0,255,0">
+			<Name="byte" Tag="" Value="0,255,0">
+			<Name="case" Tag="" Value="0,255,0">
+			<Name="catch" Tag="" Value="0,255,0">
+			<Name="char" Tag="" Value="0,255,0">
+			<Name="checked" Tag="" Value="0,255,0">
+			<Name="class" Tag="" Value="0,255,0">
+			<Name="const" Tag="" Value="0,255,0">
+			<Name="continue" Tag="" Value="0,255,0">
+			<Name="decimal" Tag="" Value="0,255,0">
+			<Name="default" Tag="" Value="0,255,0">
+			<Name="delegate" Tag="" Value="0,255,0">
+			<Name="do" Tag="" Value="0,255,0">
+			<Name="double" Tag="" Value="0,255,0">
+			<Name="else" Tag="" Value="0,255,0">
+			<Name="enum" Tag="" Value="0,255,0">
+			<Name="event" Tag="" Value="0,255,0">
+			<Name="explicit" Tag="" Value="0,255,0">
+			<Name="extern" Tag="" Value="0,255,0">
+			<Name="false" Tag="" Value="0,255,0">
+			<Name="finally" Tag="" Value="0,255,0">
+			<Name="fixed" Tag="" Value="0,255,0">
+			<Name="float" Tag="" Value="0,255,0">
+			<Name="for" Tag="" Value="0,255,0">
+			<Name="foreach" Tag="" Value="0,255,0">
+			<Name="get" Tag="" Value="0,255,0">
+			<Name="goto" Tag="" Value="0,255,0">
+			<Name="if" Tag="" Value="0,255,0">
+			<Name="implicit" Tag="" Value="0,255,0">
+			<Name="in" Tag="" Value="0,255,0">
+			<Name="int" Tag="" Value="0,255,0">
+			<Name="interface" Tag="" Value="0,255,0">
+			<Name="internal" Tag="" Value="0,255,0">
+			<Name="is" Tag="" Value="0,255,0">
+			<Name="lock" Tag="" Value="0,255,0">
+			<Name="long" Tag="" Value="0,255,0">
+			<Name="namespace" Tag="" Value="0,255,0">
+			<Name="new" Tag="" Value="0,255,0">
+			<Name="null" Tag="" Value="0,255,0">
+			<Name="object" Tag="" Value="0,255,0">
+			<Name="out" Tag="" Value="0,255,0">
+			<Name="override" Tag="" Value="0,255,0">
+			<Name="partial" Tag="" Value="0,255,0">
+			<Name="private" Tag="" Value="0,255,0">
+			<Name="protected" Tag="" Value="0,255,0">
+			<Name="public" Tag="" Value="0,255,0">
+			<Name="readonly" Tag="" Value="0,255,0">
+			<Name="ref" Tag="" Value="0,255,0">
+			<Name="return" Tag="" Value="0,255,0">
+			<Name="sbyte" Tag="" Value="0,255,0">
+			<Name="sealed" Tag="" Value="0,255,0">
+			<Name="set" Tag="" Value="0,255,0">
+			<Name="short" Tag="" Value="0,255,0">
+			<Name="sizeof" Tag="" Value="0,255,0">
+			<Name="stackalloc" Tag="" Value="0,255,0">
+			<Name="static" Tag="" Value="0,255,0">
+			<Name="string" Tag="" Value="0,255,0">
+			<Name="struct" Tag="" Value="0,255,0">
+			<Name="switch" Tag="" Value="0,255,0">
+			<Name="this" Tag="" Value="0,255,0">
+			<Name="throw" Tag="" Value="0,255,0">
+			<Name="true" Tag="" Value="0,255,0">
+			<Name="try" Tag="" Value="0,255,0">
+			<Name="typeof" Tag="" Value="0,255,0">
+			<Name="uint" Tag="" Value="0,255,0">
+			<Name="ulong" Tag="" Value="0,255,0">
+			<Name="unchecked" Tag="" Value="0,255,0">
+			<Name="unsafe" Tag="" Value="0,255,0">
+			<Name="ushort" Tag="" Value="0,255,0">
+			<Name="using" Tag="" Value="0,255,0">
+			<Name="virtual" Tag="" Value="0,255,0">
+			<Name="void" Tag="" Value="0,255,0">
+			<Name="where" Tag="" Value="0,255,0">
+			<Name="while" Tag="" Value="0,255,0">
+			<Name="yield" Tag="" Value="0,255,0">
+		[/KeyWords]
+		[Symbols]
+			<Name="+" Tag="" Value="255,255,0">
+			<Name="-" Tag="" Value="255,255,0">
+			<Name="*" Tag="" Value="255,255,0">
+			<Name="/" Tag="" Value="255,255,0">
+			<Name="%" Tag="" Value="255,255,0">
+			<Name=">" Tag="" Value="255,255,0">
+			<Name="<" Tag="" Value="255,255,0">
+			<Name="=" Tag="" Value="255,255,0">
+			<Name="!" Tag="" Value="255,255,0">
+			<Name="<" Tag="" Value="255,255,0">
+			<Name=">" Tag="" Value="255,255,0">
+			<Name="(" Tag="" Value="255,255,0">
+			<Name=")" Tag="" Value="255,255,0">
+			<Name="[" Tag="" Value="255,255,0">
+			<Name="]" Tag="" Value="255,255,0">
+			<Name="{" Tag="" Value="255,255,0">
+			<Name="}" Tag="" Value="255,255,0">
+			<Name="?" Tag="" Value="255,255,0">
+			<Name=":" Tag="" Value="255,255,0">
+			<Name="|" Tag="" Value="255,255,0">
+			<Name="\\" Tag="" Value="255,255,0">
+			<Name="'" Tag="" Value="255,255,0">
+			<Name="\"" Tag="" Value="255,255,0">
+			<Name="," Tag="" Value="255,255,0">
+			<Name="." Tag="" Value="255,255,0">
+			<Name=";" Tag="" Value="255,255,0">
+			<Name="@" Tag="" Value="255,255,0">
+			<Name="#" Tag="" Value="255,255,0">
+			<Name="$" Tag="" Value="255,255,0">
+			<Name="%" Tag="" Value="255,255,0">
+			<Name="^" Tag="" Value="255,255,0">
+			<Name="&" Tag="" Value="255,255,0">
+			<Name="_" Tag="" Value="255,255,0">
+			<Name="~" Tag="" Value="255,255,0">
+		[/Symbols]
+		[VariableType]
+			<Name="void" Tag="" Value="">
+			<Name="byte" Tag="" Value="">
+			<Name="char" Tag="" Value="">
+			<Name="int" Tag="" Value="">
+			<Name="long" Tag="" Value="">
+			<Name="float" Tag="" Value="">
+			<Name="double" Tag="" Value="">
+			<Name="string" Tag="" Value="">
+			<Name="bool" Tag="" Value="">
+		[/VariableType]
+	[/C#]
+[/Language]

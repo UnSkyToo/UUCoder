@@ -348,7 +348,7 @@ namespace UUCoder
 
         private void ConfigForm_Load(object sender, EventArgs e)
         {
-            this.mDataDocument.Load(Application.StartupPath + "\\config\\config.txt");
+            this.mDataDocument.Load(Application.StartupPath + "\\config.txt");
 
             this.mCurrLanguageIndex = 0;
 

@@ -1,0 +1,11 @@
+E:\Projects\GitHub Project\UUCoder\UUCoder\bin\Debug\UUCoder.exe.config
+E:\Projects\GitHub Project\UUCoder\UUCoder\bin\Debug\UUCoder.exe
+E:\Projects\GitHub Project\UUCoder\UUCoder\bin\Debug\UUCoder.pdb
+E:\Projects\GitHub Project\UUCoder\UUCoder\obj\Debug\UUCoder.csprojAssemblyReference.cache
+E:\Projects\GitHub Project\UUCoder\UUCoder\obj\Debug\UUCoder.ConfigForm.resources
+E:\Projects\GitHub Project\UUCoder\UUCoder\obj\Debug\UUCoder.MainForm.resources
+E:\Projects\GitHub Project\UUCoder\UUCoder\obj\Debug\UUCoder.Properties.Resources.resources
+E:\Projects\GitHub Project\UUCoder\UUCoder\obj\Debug\UUCoder.csproj.GenerateResource.cache
+E:\Projects\GitHub Project\UUCoder\UUCoder\obj\Debug\UUCoder.csproj.CoreCompileInputs.cache
+E:\Projects\GitHub Project\UUCoder\UUCoder\obj\Debug\UUCoder.exe
+E:\Projects\GitHub Project\UUCoder\UUCoder\obj\Debug\UUCoder.pdb

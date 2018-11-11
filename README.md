@@ -1,3 +1,9 @@
 # UUCoder
-一款带着色、提示、缩进等功能的简单代码编辑器，锻炼与兴趣结合的产品  
-可配置多种语言，默认已经配置了C#语言，复制config.txt和default.txt到生成的exe目录下即可运行
+
+A simple text editor, support Keyword Coloring Language Config IntelliScene
+
+![Selection](https://github.com/UnSkyToo/UUCoder/blob/master/README_IMAGES/img_1.png)
+
+![Config](https://github.com/UnSkyToo/UUCoder/blob/master/README_IMAGES/img_2.png)
+
+![IntelliSence](https://github.com/UnSkyToo/UUCoder/blob/master/README_IMAGES/img_3.png)

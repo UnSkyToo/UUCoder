@@ -504,7 +504,7 @@ namespace UUCoder
 
         private void 打开OToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            openFileDialog1.Filter = "文本文件(*.txt)|*.txt";
+            openFileDialog1.Filter = "CSharp(*.cs)|*.cs|文本文件(*.txt)|*.txt|所有文件(*.*)|*.*";
             openFileDialog1.FileName = string.Empty;
             openFileDialog1.Title = "打开";
 
